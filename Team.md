@@ -1,3 +1,3 @@
-# How does it work?
+# Team Page
 
-Enter Text in Markdown format.
+This is a sample page
